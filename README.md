@@ -1,6 +1,3 @@
-Here's a `README.md` file suitable for your "Fast Console" project. This Markdown document includes sections like an introduction, features, setup instructions, usage guidelines, and a warning about security concerns due to the use of `eval()`.
-
-```markdown
 # Fast Console
 
 ## Introduction
